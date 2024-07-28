@@ -1,2 +1,2 @@
 # menu-bar-work
- using javascript
+ using javascript mini project
